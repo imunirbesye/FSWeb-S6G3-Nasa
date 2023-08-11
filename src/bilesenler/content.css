@@ -1,0 +1,55 @@
+.content {
+    width:700px;
+    background: #fff;
+    border-radius: 5px;
+    border:1px solid #082e90;
+    margin:auto;
+    margin-top:1%;
+}
+.content-ust {
+    width: 90%;
+    height: 50px;
+    padding-left:5%;
+    padding-right: 5%; 
+    display: inline-flex;
+    flex-direction: row; 
+}
+.content-baslik {
+    width:65%;
+    height: 50px;
+    line-height: 50px;
+    text-align: left;
+    font-size: 2rem;
+    font-weight: bold; 
+    color: #082e90;
+}
+.content-tarih {
+    width: 30%;
+    padding-left:5%;
+    text-align: right;
+    font-size: 1.2rem;
+    line-height: 50px;
+}
+.content-image {
+    width: 100%;
+    height:auto;
+}
+.content-image img {
+    width: 100%;
+}
+iframe {
+    width: 100%;
+}
+.content-metin {
+    width: 90%;
+    padding: 2% 5%;
+    text-align: justify;
+}
+.content-copyright {
+    width: 90%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+    text-align: left;
+    color:#777;
+}
